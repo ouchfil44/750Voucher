@@ -1,0 +1,35 @@
+/*
+* Custom Styles
+*/
+
+body {
+    background-color: #A83D5D;
+}
+.bg-light {
+    background-color: #8F2B48 !important;
+}
+.navbar-brand {
+    font-size: 1rem;
+    font-weight: bold;
+}
+.navbar-brand img {
+    height: 50px;
+    margin-top: 0;
+    border-radius: 25px;
+    margin-right: 1rem;
+    padding: 0;
+}
+.accordion .card .card-header button .icon {
+    color: #ef8aa6;
+}
+.accordion .card-body {
+    background-color: #A83D5D !important;
+}
+.btn-dark {
+    background-color: #171f38;
+    border-color: #000000;
+    padding: 1.25rem 1.75rem;
+}
+.social-buttons img {
+    filter: invert(0.9);
+}
